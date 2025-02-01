@@ -4,7 +4,7 @@ Hi 👋 My name is Harshvardhan Baghel
 React JS Frontend Developer
 ---------------------------
 
-Enthusiastic software engineer with 5+ years of experience participating in the complete product development lifecycle of successfully launched applications. Proven ability to leverage full-stack knowledge and experience to build interactive and user-centered website designs to scale. Extensive expertise in the large system architecture development and administration, as well as network design and integration.
+Enthusiastic software engineer with 5+ years of experience participating in successfully launched applications' complete product development lifecycle. Proven ability to leverage full-stack knowledge and experience to build interactive and user-centered website designs to scale. Extensive expertise in large system architecture development and administration, network design, and integration.
 
 * 🌍  I'm based in Indore, India
 * ✉️  You can contact me at [harshvardhan.singh1991@gmail.com](mailto:harshvardhan.singh1991@gmail.com)
